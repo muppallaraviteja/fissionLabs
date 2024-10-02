@@ -22,5 +22,4 @@ public class Product {
   @Version
   private Long version;
 
-
 }
